@@ -1,4 +1,4 @@
-package wilkingfelix;
+package com.company;
 
 public class Main {
 
